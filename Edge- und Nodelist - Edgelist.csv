@@ -1,0 +1,22 @@
+from,to ,weight,relationship
+hp,rw,3,1
+hp,hg,3,1
+hp,dd,2,1
+hp,ss,2,1
+hp ,dm,1,1
+hp,rh,3,1
+rw ,hg,3,1
+rw ,dd,2,1
+rw ,ss,1,1
+rw ,dm,1,1
+rw ,rh,3,1
+hg,dd,3,1
+hg,ss,1,1
+hg,dm,1,1
+hg ,rh,3,1
+dd,ss,2,1
+dd,dm,1,1
+dd,rh,3,1
+ss,dm,3,1
+ss,rh,2,1
+dm,rh,1,1
